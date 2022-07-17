@@ -177,3 +177,6 @@ git checkout main
 
 E juntamos o código da "develop" com a "main"
 git merge develop
+
+
+LEMBREI DO COMANDO: GIT STATUS
